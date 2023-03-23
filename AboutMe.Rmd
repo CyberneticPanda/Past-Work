@@ -1,0 +1,16 @@
+---
+title: "Austin Mercado"
+author: "Austin Mercado"
+date: "2023-03-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **STUFF**
+
+---
+
+# **More Interesting Stuff**
