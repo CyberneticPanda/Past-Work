@@ -8,22 +8,29 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(magrittr)
+devtools::install_github("lbusett/insert_table")
 ```
 
 # What this is
--A simple page put together using HTML.
+- A simple page put together using HTML.
 
 # Why this is
 - To learn HTML
-
 - To show off to:
 
     1. To my boss
     2. To my friends
     3. To my cat
     4. To the little talking duck in my brain
+- Because I've fallen in love with computers
 
 # Info on Bobcats
+
+#### [Bobcat Info](https://a-z-animals.com/animals/bobcat/)
+
+```{r, echo=FALSE}
+knitr::include_graphics("bobcat.jpg")
+```
 
 
 # An example of a table
