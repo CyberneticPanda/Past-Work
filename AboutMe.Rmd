@@ -9,8 +9,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **STUFF**
+# ***About Me: As a Student***
+- I am currently a 3rd year biology student; emphasis in anatomy/physiology. I am currently taking CSE 005 to fulfill a badge field under engineering toward my degree path. Much of class material is recognizable material that I am much familiar with as I have explored much in computer science, so much that it was my second choice when determining majors for undergraduates. However, recently I have discovered Data Science/Bioinformatics that joins two fields I enjoy together. Therefore, I am currently in a undergraduate research group for Data Science and been utilizing Rstudios for the most part, especially when finishing this lab assignment from kniting a html from a rmarkdown. 
 
 ---
 
-# **More Interesting Stuff**
+# [My GitHub](https://github.com/CyberneticPanda)
+```{r, echo=FALSE}
+knitr::include_graphics("124742072.png")
+```
+
+---
+
+# ***About Me: As a Person***
+- Beside being a full-time student, I enjoy playing games, listening to music, or spending quality time with my puppy(A Frenchie). For my part time job, I work at movie theater which has it benefits. My co-workers are nice and easy going. As for benefits, free movies tickets for myself and friends, half off on all concession goods, and special accommodations(Although I'll go watch 2-3 movies a year). Beside that, I always try to keep myself busy with projects from repairing/assembling 3d printers for co-workers, learning something new like 3d designing, tuning my computer, electric skateboard, or car to make it better/special no like some other. 
