@@ -101,7 +101,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Quid Pro Quo – Austin Mercado  
 
-#Introduction 
+# Introduction 
 
     From the various ways of social engineering, one of the infamous styles that wrecks much havoc across the globe is Quid Pro Quo. Quid Pro Quo occurs across long distances in close doors to in door share offices among colleagues. Quid Pro Quo is a Latin phrase that phases to exchange of goods or services. However often enough, thieves will promise their share to gain access to goods and valuables before the other party realizes its to late. Often enough on the web, it comes to that situation where fault situations that appear to be drastic; creating the trap environment and luring in the victim environment to put their guard down to take advantage of the individual. 
 
