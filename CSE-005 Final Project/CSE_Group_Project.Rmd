@@ -55,7 +55,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
     Overall social engineering builds up about 98% of the cyber-attacks world-wide basically meaning that all. That is going on is because of social engineering. Baiting included in that, us as young adults need to be careful with what links we open and what information we give out for a simple prize. Being more cautious  can stop the steal of personal and financial information. 
 
-------
+-----
 
 ## Scareware – Annabel Mejia Cortes  
 
