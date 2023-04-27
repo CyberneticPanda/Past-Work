@@ -1,8 +1,12 @@
 ---
 title: "Social Engineering"
-author: "Austin Mercado, Joceyln Morales, Diana Maldonado Luberto, Annabel Mejia Cortes, Carmen Lopez"
+author: Austin Mercado, Joceyln Morales, Diana Maldonado Luberto, Annabel Mejia Cortes,
+  Carmen Lopez
 date: "2023-04-22"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -117,4 +121,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. More than ever, social engineer attacks have been at their highest more than ever. Quid Pro Quo is a potential dangerous trade that results in millions of dollars of value stolen. In addition, the development of further trouble ahead in life that comes to affect many in the long run. The best way to avoid harm to oneself or another is acknowledge1qxx the problem and make awareness of the scheme of Quid Pro Quo that has developed in this world. 
 
- 
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("../Pictures/pretexting.jpeg")
+knitr::include_graphics("../Pictures/pretexting2.jpeg")
+knitr::include_graphics("../Pictures/pretexting3.png")
+knitr::include_graphics("../Pictures/thumbnail_Image (1).jpg")
+knitr::include_graphics("../Pictures/thumbnail_image (1).png")
+knitr::include_graphics("../Pictures/thumbnail_image (2).png")
+knitr::include_graphics("../Pictures/thumbnail_Image.jpg")
+knitr::include_graphics("../Pictures/thumbnail_image.png")
+```
+
