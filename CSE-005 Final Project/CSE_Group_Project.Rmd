@@ -4,9 +4,9 @@ author: Austin Mercado, Joceyln Morales, Diana Maldonado Luberto, Annabel Mejia 
   Carmen Lopez
 date: "2023-04-22"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -44,6 +44,12 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting.jpeg")
 
     Your bank account has been targeted and you need to provide certain details, so the problem can be eradicated. One of the many dialogues used by hackers to fish out information from their targets. Victims are placed in a vulnerable position; the majority does not think twice about verifying the validity of the statement and are quick to provide what is demanded of them. Pretexting has become the easiest and most common tactic used by hackers, because terribly it is extremely effective. Hence, we must adhere to authenticating any alert we might receive that requires giving out personal information. Educating ourselves will be the only way we can remain secure amongst the rapid growth of social engineering attacks.  
 
+#### Sources
+
+* []()
+* []()
+* []()
+
 -----
 
 ### Baiting – Diana Maldonado Luberto 
@@ -63,6 +69,18 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting.jpeg")
 #### Conclusion  
 
     Overall social engineering builds up about 98% of the cyber-attacks world-wide basically meaning that all. That is going on is because of social engineering. Baiting included in that, us as young adults need to be careful with what links we open and what information we give out for a simple prize. Being more cautious  can stop the steal of personal and financial information. 
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_5-Common-Social-Engineering-Tactics-and-How-to-Identify-Them.png")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_attachment.jpg")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_attachment.png")
+```
+
+#### Sources
+
+* []()
+* []()
+* []()
 
 -----
 
@@ -90,9 +108,16 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image.jpg")
 ```
 
 
+
 #### Conclusion   
 
     This form of cyber-attack is still very prominent in our current society, and with technology being common attackers can take advantage of the fact that more people are aware that they need to have protection when going into sketchy websites. Scareware is something to look for when using the internet, but by being informed on what to look for, cyber-attacks won’t have to be as much of an issue. 
+
+#### Sources
+
+* []()
+* []()
+* []()
 
 ------
 
@@ -120,6 +145,12 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image (1).p
 
     Years continue to go by, and phishing will also continue to grow as the attackers tend to get more and more creative as well. Constantly finding a new way to get someone to click their link, whether that is through a “lost package” message or through “Official concert ticket” emails. It might seem easy to be able to avoid these kinds of scams but sometimes the messages can just be very tempting. Though, there are many different security systems that people can use in order to stop this information leakage even when you click on the link. 
 
+#### Sources
+
+* []()
+* []()
+* []()
+
 ------
 
 ### Quid Pro Quo – Austin Mercado  
@@ -144,4 +175,8 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/Screenshot from 2023-
 
 1. More than ever, social engineer attacks have been at their highest more than ever. Quid Pro Quo is a potential dangerous trade that results in millions of dollars of value stolen. In addition, the development of further trouble ahead in life that comes to affect many in the long run. The best way to avoid harm to oneself or another is acknowledge1qxx the problem and make awareness of the scheme of Quid Pro Quo that has developed in this world. 
 
+#### Sources
 
+* []()
+* []()
+* []()
