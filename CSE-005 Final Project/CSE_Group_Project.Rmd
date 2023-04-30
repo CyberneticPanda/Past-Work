@@ -23,15 +23,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. What are the most common dialogues/templates used when pretexting a victim? 
 
-    The most common dialogue used when a hacker is attempting to pretext a victim, is by masking themselves as a bank that needs information from the user to verify a transaction. Where the victim sends their personal data, and the hacker extorts that.  
+*   The most common dialogue used when a hacker is attempting to pretext a victim, is by masking themselves as a bank that needs information from the user to verify a transaction. Where the victim sends their personal data, and the hacker extorts that.  
 
 2. How to notice when a message or call is malignant. 
 
-    To identify a malignant call, look for signs of command repetitions if the caller keeps using the same words and attempting to gain some sort of information, you should hang up.  
+*   To identify a malignant call, look for signs of command repetitions if the caller keeps using the same words and attempting to gain some sort of information, you should hang up.  
 
 3. How are targets chosen.  
 
-    Targets are chosen when they have access to certain data the hacker needs or wants. At times individuals can be chosen at random when a perpetrator comes across their phone number.  
+*   Targets are chosen when they have access to certain data the hacker needs or wants. At times individuals can be chosen at random when a perpetrator comes across their phone number.  
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting3.png")
@@ -46,9 +46,9 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting.jpeg")
 
 #### Sources
 
-* []()
-* []()
-* []()
+* [Social engineering attack examples, templates, and scenarios](https://www.sciencedirect.com/science/article/abs/pii/S0167404816300268)
+* [OmeTV Pretexting Phishing Attacks: A Case Study of Social Engineering](https://ieeexplore.ieee.org/document/9924801/;jsessionid=9rHQmzVmKmQBk4UYlcPppBek2w_Vwa0LKh0F_XpEq4A7_DlFDcrK!-2038615898)
+* [Social Engineering: The Looming Threat](https://ieeexplore.ieee.org/abstract/document/9491884)
 
 -----
 
@@ -78,9 +78,9 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_attachment.
 
 #### Sources
 
-* []()
-* []()
-* []()
+* [Privacy Sense.net: Baiting](https://www.privacysense.net/terms/baiting/)
+* [Don't Take the Bait! Phishing and Other Social Engineering Attacks](https://www.cyber.nj.gov/informational-report/dont-take-the-bait-phishing-and-other-social-engineering-attacks)
+* [What is Baiting in Cybersecurity? Techniques, Examples, Protection](https://easydmarc.com/blog/what-is-baiting-in-cybersecurity-techniques-examples-protection/)
 
 -----
 
@@ -97,17 +97,21 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_attachment.
 * Pop-ups disguised as protection plans
 * Ads shown on trusted websites
 * Pop-ups telling you there have been viruses detected on your device
+  + They can look very real when they are custom made to look like the software you are using.
+  + Note that an advertisement doesn't scan for viruses without you allowing them. 
   
-2. How to identify scareware tactics 
+2. How to identify scareware tactics
 
-* Check the URL as often people will use a very similar URL to that of a legitimate website. 
+* Check the URL as often they will use a very similar URL to that of a legitimate website
+* Unfamiliar company name
+* Urgency from the pop-up
+* Difficult to find the 'x' button to discard the pop-up
+* Starts with "Warning!" or Virus deteced!
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image (1).jpg")
 knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image.jpg")
 ```
-
-
 
 #### Conclusion   
 
@@ -147,9 +151,9 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image (1).p
 
 #### Sources
 
-* []()
-* []()
-* []()
+* [ScienceDirect: Phishing-challenges and solutions](https://www.sciencedirect.com/science/article/abs/pii/S1361372318300071)
+* [Confense: History of Phishing](https://cofense.com/knowledge-center/history-of-phishing/)
+* [CSUSB ScholarWorks: A Study of Social Engineering Concepts Within A Deceptive Defense](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=2659&context=etd)
 
 ------
 
@@ -161,9 +165,15 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image (1).p
 
 #### Content 
 
-1. Real Life Scenarios examples of Quid Pro Quo 
+1. Early Signs of Quid Pro Quo:
+* Bad Gut feeling  
++ Feeling of "too good to be true"
 
-2. Ways to avoid Quid Pro Quo. 
+2. Ways to avoid Quid Pro Quo:
+* Request help from someone close or second opinion before engaging a possible Quid Pro Quo.
+* Request contact information or stall till confirmation 
+* Look into it before following the instructions
++ Look at the fine lining 
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("../CSE-005 Final Project/Pictures/Screenshot from 2023-04-29 19-48-49.png")
@@ -177,6 +187,6 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/Screenshot from 2023-
 
 #### Sources
 
-* []()
-* []()
-* []()
+* [ScienceDirect: Overview of Social Engineering Attacks on Social Networks](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=2659&context=etd)
+* [AIS eLibrary: A Taxonomy for Social Engineering attacks](https://aisel.aisnet.org/confirm2011/15/)
+* [International Journal on Advances in Engineering, Technology and Science, Protection of Computer Networks from the SOcial Engineering Attacks](https://ijaets.in/articles/1-1/1510001.pdf)
