@@ -61,10 +61,21 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting.jpeg")
 #### Content   
 
 1. Who do they mainly attack? 
+* Business employees
+*Teenagers
 
 2. What is the main promotion maybe? 
+* New phones typically include the newest ones on the stock market.
+* Free access:
++ Movies
++ Music
++ Gift Cards
+* False packaging information from a fake FedEx or UPS
 
 3. What are possible ways to not fall under baiting? 
+* Antiviruses and anti-malware baiting?
+* Proper network security
+* If offers look to "good to be true" do NOT open the links
 
 #### Conclusion  
 
@@ -134,10 +145,13 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image.jpg")
 #### Content  
 
 1. What are the main reasons hackers choose phishing as a way to attack? 
+* The reason why many attackers choose phinishing as a way to attack is because it is easy to fool people into clicking their link. Many people tend to be gullible when they see a message saying they won free tickets and can't help but click the link attached. This sample action causes for all personal data to be hacked.
 
 2. Who are the most targeted? 
+* Phishing attackers attack employee's of all company levels. This is to be able to steal as much information from them as possible including company financial statements and employee information. 
 
 3. How much has Phishing grown in the USA? 
+* Phishing is the most common form of cyber attacks with over 3.84 billion attacks a day. Recently there has been a 61% growth rate in the United States from phishing emails which is a huge jump. 
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image.png")
