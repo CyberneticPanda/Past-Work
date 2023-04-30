@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Introduction
 
-1. Pretexting is one of the different types of social engineering attacks. It is formulated by an attacker staging a situation that requires an individual to share their private information. An example of this could be a fraud call, where a fraudster pretends to be a governing figure or someone from a bank and begins reaching out to victims, who are then tricked into giving out their personal details. Majority of the times, this data is used in malicious ways. 
+    Pretexting is one of the different types of social engineering attacks. It is formulated by an attacker staging a situation that requires an individual to share their private information. An example of this could be a fraud call, where a fraudster pretends to be a governing figure or someone from a bank and begins reaching out to victims, who are then tricked into giving out their personal details. Majority of the times, this data is used in malicious ways. 
 
 #### Content  
 
@@ -197,7 +197,7 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/Screenshot from 2023-
 
 #### Conclusion
 
-1. More than ever, social engineer attacks have been at their highest more than ever. Quid Pro Quo is a potential dangerous trade that results in millions of dollars of value stolen. In addition, the development of further trouble ahead in life that comes to affect many in the long run. The best way to avoid harm to oneself or another is acknowledge1qxx the problem and make awareness of the scheme of Quid Pro Quo that has developed in this world. 
+    More than ever, social engineer attacks have been at their highest more than ever. Quid Pro Quo is a potential dangerous trade that results in millions of dollars of value stolen. In addition, the development of further trouble ahead in life that comes to affect many in the long run. The best way to avoid harm to oneself or another is acknowledge1qxx the problem and make awareness of the scheme of Quid Pro Quo that has developed in this world. 
 
 #### Sources
 
