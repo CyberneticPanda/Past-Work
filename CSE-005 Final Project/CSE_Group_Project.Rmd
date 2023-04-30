@@ -4,9 +4,9 @@ author: Austin Mercado, Joceyln Morales, Diana Maldonado Luberto, Annabel Mejia 
   Carmen Lopez
 date: "2023-04-22"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -34,9 +34,9 @@ knitr::opts_chunk$set(echo = TRUE)
     Targets are chosen when they have access to certain data the hacker needs or wants. At times individuals can be chosen at random when a perpetrator comes across their phone number.  
 
 ```{r, echo=FALSE, fig.align='center'}
-knitr::include_graphics("../Pictures/pretexting3.png")
-knitr::include_graphics("../Pictures/pretexting2.jpeg")
-knitr::include_graphics("../Pictures/pretexting.jpeg")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting3.png")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting2.jpeg")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/pretexting.jpeg")
 ```
 
 
@@ -85,8 +85,8 @@ knitr::include_graphics("../Pictures/pretexting.jpeg")
 * Check the URL as often people will use a very similar URL to that of a legitimate website. 
 
 ```{r, echo=FALSE, fig.align='center'}
-knitr::include_graphics("../Pictures/thumbnail_Image (1).jpg")
-knitr::include_graphics("../Pictures/thumbnail_Image.jpg")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image (1).jpg")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image.jpg")
 ```
 
 
@@ -111,9 +111,9 @@ knitr::include_graphics("../Pictures/thumbnail_Image.jpg")
 3. How much has Phishing grown in the USA? 
 
 ```{r, echo=FALSE, fig.align='center'}
-knitr::include_graphics("../Pictures/thumbnail_image (1).png")
-knitr::include_graphics("../Pictures/thumbnail_image (2).png")
-knitr::include_graphics("../Pictures/thumbnail_image.png")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image.png")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image (2).png")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_image (1).png")
 ```
 
 #### Conclusion  
@@ -134,7 +134,11 @@ knitr::include_graphics("../Pictures/thumbnail_image.png")
 
 2. Ways to avoid Quid Pro Quo. 
 
-[Insert Images]
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("../CSE-005 Final Project/Pictures/Screenshot from 2023-04-29 19-48-49.png")
+knitr::include_graphics("../CSE-005 Final Project/Pictures/Screenshot from 2023-04-29 19-49-16.png")
+```
+
 
 #### Conclusion
 
