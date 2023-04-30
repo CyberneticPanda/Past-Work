@@ -119,9 +119,9 @@ knitr::include_graphics("../CSE-005 Final Project/Pictures/thumbnail_Image.jpg")
 
 #### Sources
 
-* []()
-* []()
-* []()
+* [Socal Engineering: What is Scareware?](https://blog.mailfence.com/social-engineering-what-is-scareware/)
+* [Protection against Semantic Social Engineering Attacks](https://link.springer.com/chapter/10.1007/978-3-319-97643-3_4)
+* [Sizing up the malware threat](https://www.sciencedirect.com/science/article/abs/pii/S1353485810700453)
 
 ------
 
